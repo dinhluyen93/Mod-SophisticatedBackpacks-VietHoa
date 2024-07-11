@@ -1,4 +1,6 @@
-# Sophisticated Backpacks Mod
+# Mod Sophisticated Backpacks Việt Hóa
+
+[![Discord Banner 2](https://discord.com/api/guilds/1097598643931992155/widget.png?style=banner2)](https://discord.gg/scv2zKPx3g)
 
 ## Giới thiệu
 
@@ -15,32 +17,27 @@ Sophisticated Backpacks là một mod trong Minecraft mang đến cho người c
 
 ## Hướng dẫn cài đặt
 
-### Để cài đặt và sử dụng mod Sophisticated Backpacks, làm theo các bước sau:
+### Cài đặt mod Sophisticated Backpacks và sử dụng Việt hóa:
 
-1. **Cài đặt Minecraft Forge (hoặc Fabric):**
-   - Forge (hoặc Fabric) là công cụ hỗ trợ modding Minecraft. Bạn có thể tải và cài đặt Forge (hoặc Fabric) từ [Forge Website](https://files.minecraftforge.net/).
+1. **Cài đặt công cụ modding Minecraft:**
+   - Tài và cài đặt [Forge](https://files.minecraftforge.net/) hoặc [Fabric](https://fabricmc.net/use/installer/).
 
 2. **Tải và cài đặt Sophisticated Backpacks Mod:**
    - Tải mod Sophisticated Backpacks từ [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files).
-   - Sao chép file .jar của mod vào thư mục `mods` trong thư mục `.minecraft` của bạn.
+   - Sao chép file `.jar` của mod vào thư mục `mods` trong Minecraft của bạn.
 
-3. **Tải và cài đặt Resource Pack việt hóa:**
-   - Tải Resource Pack việt hóa cho Sophisticated Backpacks từ [Github](https://github.com/dinhluyen93/Mod-SophisticatedBackpacks-VietHoa).
-   - Mở Minecraft, vào mục `Options` (Cài đặt) -> `Resource Packs` (Bộ tài nguyên).
-   - Chọn **Open Resource Packs Folder** (Mở thư mục Resource Packs).
-   - Đưa file `.zip` của Resource Pack việt hóa vào thư mục này.
+3. **Tải và cài đặt Sophisticated Backpacks Việt Hóa:**
+   - Tải **Resource Pack Việt hóa** cho Sophisticated Backpacks từ [Github](https://github.com/dinhluyen93/Mod-SophisticatedBackpacks-VietHoa/releases).
+   - Mở **Minecraft**, vào mục **Options** (Cài đặt) -> **Resource Packs** (Gói tài nguyên).
+   - Chọn **Open Resource Packs Folder** (Mở thư mục gói).
+   - Đưa file `.zip` của Sophisticated Backpacks Việt hóa vào thư mục này.
 
 4. **Kích hoạt Resource Pack:**
    - Quay lại Minecraft và chọn Resource Pack bạn vừa thêm vào để kích hoạt.
-   - Đảm bảo Resource Pack việt hóa đã nằm trên Sophisticated Backpacks trong danh sách Resource Packs để sử dụng các tệp ngôn ngữ việt hóa.
+   - Đảm bảo Resource Pack việt hóa đã nằm trên cùng trong danh sách Resource Packs để sử dụng các tệp ngôn ngữ việt hóa.
 
 5. **Khởi động lại Minecraft:**
    - Khởi động lại Minecraft để áp dụng các thay đổi và bắt đầu sử dụng Sophisticated Backpacks với giao diện việt hóa.
 
 ## Đóng góp
-
-Nếu bạn gặp vấn đề khi sử dụng mod hoặc có đề xuất cải tiến, vui lòng tạo issues hoặc pull requests trên Github. Sự đóng góp của bạn sẽ giúp cải thiện và phát triển mod này tốt hơn.
-
-## Giấy phép
-
-Mod Sophisticated Backpacks được phát hành dưới giấy phép [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.html).
+Nếu bạn gặp vấn đề khi sử dụng bản dịch mod tiếng Việt hoặc có đề xuất cải tiến, vui lòng tạo [issues](https://github.com/dinhluyen93/Mod-SophisticatedBackpacks-VietHoa/issues) hoặc [pull requests](https://github.com/dinhluyen93/Mod-SophisticatedBackpacks-VietHoa/pulls) trên Github.
