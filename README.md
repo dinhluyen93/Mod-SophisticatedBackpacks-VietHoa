@@ -44,9 +44,3 @@ Nếu bạn gặp vấn đề khi sử dụng mod hoặc có đề xuất cải 
 ## Giấy phép
 
 Mod Sophisticated Backpacks được phát hành dưới giấy phép [GNU Lesser General Public License v3.0](https://www.gnu.org/licenses/lgpl-3.0.html).
-
----
-
-**Lưu ý:** Hướng dẫn này chỉ áp dụng cho phiên bản Forge của Minecraft. Nếu bạn sử dụng Fabric hoặc phiên bản khác, hãy tham khảo tài liệu hướng dẫn tương ứng.
-
-Cảm ơn bạn đã sử dụng và đóng góp cho mod Sophisticated Backpacks!
